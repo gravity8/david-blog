@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Nigeria Election",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod, dolore aperiam! Vitae commodi aspernatur nesciunt odio hic architecto quos voluptas fugit, illo ad dolor quaerat quas in est labore consequuntur qui! Quos magnam ea ab rerum velit. Inventore vel, voluptates consectetur, fuga corporis qui necessitatibus nisi quae sit, alias in?",
+      "author": "David",
+      "id": 4
+    },
+    {
+      "title": "Tinubu wins Election",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod, dolore aperiam! Vitae commodi aspernatur nesciunt odio hic architecto quos voluptas fugit, illo ad dolor quaerat quas in est labore consequuntur qui! Quos magnam ea ab rerum velit. Inventore vel, voluptates consectetur, fuga corporis qui necessitatibus nisi quae sit, alias in?",
+      "author": "Ayotunde",
+      "id": 4
+    },
+    {
+      "title": "Legal actions to be taken",
+      "body": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quod, dolore aperiam! Vitae commodi aspernatur nesciunt odio hic architecto quos voluptas fugit, illo ad dolor quaerat quas in est labore consequuntur qui! Quos magnam ea ab rerum velit. Inventore vel, voluptates consectetur, fuga corporis qui necessitatibus nisi quae sit, alias in?",
+      "author": "Ayotunde",
+      "id": 4
+    },
+    {
+      "title": "DAvid Blog",
+      "body": "Lorem ipsum dor itum",
+      "author": "Ayotunde",
+      "id": 5
+    }
+  ]
+}
